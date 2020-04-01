@@ -1,0 +1,29 @@
+{
+  "type": "Feature",
+  "id": 1,
+  "geometry": {
+    "type": "Point",
+    "coordinates": [35.2956590000001, 32.6012460000001]
+  },
+  "properties": {
+    "OBJECTID": 1,
+    "ID": null,
+    "Name": "",
+    "Place": "אולמי אצולת העמק, עפולה",
+    "Date": null,
+    "types": null,
+    "Comments": "מסיבה",
+    "POINT_X": null,
+    "POINT_Y": null,
+    "fromTime": 1583884800000,
+    "toTime": 1583886600000,
+    "sourceOID": 1,
+    "flight": null,
+    "flightFrom": null,
+    "flightArrival": null,
+    "stayTimes": "00:00-00:30",
+    "fromTime_utc": 1583877600000,
+    "toTime_utc": 1583879400000,
+    "Key_Field": 1425
+  }
+}
